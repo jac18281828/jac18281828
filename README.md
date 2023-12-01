@@ -46,4 +46,9 @@
 <img src="https://2ad.com/favicon.ico" />
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Truce and Peace of God](https://2ad.com/history-truce-and-peace-of-god.html)
+- [Hacking pickups on highly customized Les Paul](https://2ad.com/hacking-pickups-on-highly-customized-les-paul.html)
+- [Impact of Java virtual threads on performance?](https://2ad.com/virtual-threads.html)
+- [EMOM Timer](https://2ad.com/emom-timer.html)
+- [History: aratum](https://2ad.com/history-aratum.html)
 <!-- BLOG-POST-LIST:END -->
