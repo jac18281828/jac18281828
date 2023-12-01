@@ -11,12 +11,11 @@
 # Latest Videos
 
 <!-- VIDEO-LIST:START -->
-
--   [Frakencaster – Les Paul Hacking](https://www.youtube.com/watch?v=QewbvhJLm4s)
--   [FrankenCaster #short #lespaul #pickup #hacking](https://www.youtube.com/watch?v=qTzrGzuZAnw)
--   [Build and Test in Solidity](https://www.youtube.com/watch?v=Kb79-Ac3Ppc)
--   [Bean&#39;s Test Kitchen: Unicorn Fart Ice Cream Recipe](https://www.youtube.com/watch?v=yeKDNxcRyLE)
--   [define a custom keybinding in emacs](https://www.youtube.com/watch?v=LcvZbU7Okww)
+- [Frakencaster – Les Paul Hacking](https://www.youtube.com/watch?v=QewbvhJLm4s)
+- [FrankenCaster #short #lespaul #pickup #hacking](https://www.youtube.com/watch?v=qTzrGzuZAnw)
+- [Build and Test in Solidity](https://www.youtube.com/watch?v=Kb79-Ac3Ppc)
+- [Bean&#39;s Test Kitchen: Unicorn Fart Ice Cream Recipe](https://www.youtube.com/watch?v=yeKDNxcRyLE)
+- [define a custom keybinding in emacs](https://www.youtube.com/watch?v=LcvZbU7Okww)
 <!-- VIDEO-LIST:END -->
 
 # Blog
