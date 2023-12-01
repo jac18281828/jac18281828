@@ -4,11 +4,11 @@
 
 # Welcome to my GitHub Profile
 
--   Professional Software Engineer
+-   Experienced Software Engineer
 -   Solidity Smart Contract Developer
 -   Open Source Innovator
 
-# Latest Videos
+# [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
 - [Frakencaster – Les Paul Hacking](https://www.youtube.com/watch?v=QewbvhJLm4s)
@@ -18,7 +18,7 @@
 - [define a custom keybinding in emacs](https://www.youtube.com/watch?v=LcvZbU7Okww)
 <!-- VIDEO-LIST:END -->
 
-# Blog
+# [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [History: Truce and Peace of God](https://2ad.com/history-truce-and-peace-of-god.html)
@@ -28,18 +28,14 @@
 - [History: aratum](https://2ad.com/history-aratum.html)
 <!-- BLOG-POST-LIST:END -->
 
+# [My Gists](https://gist.github.com/jac18281828)
+
+<img src="https://gists-readme.yizack.com/api?user=jac18281828" />
+
 # Connect
 
 <div>
     <a href="https://www.linkedin.com/in/johnacairns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.youtube.com/@johnacairns">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</div><div>
-    <a href="https://app.ens.domains/jac1828.eth">jac1828.eth</a>
-    <br>
-    <a href="https://keys.openpgp.org/search?q=DD453D1420D17CA0102FF85C7BEF3762B55F70AD">DD453D1420D17CA...</a>
-</div><div>
-<a href="https://converse.xyz/dm/jac1828.eth">Converse</a>
-<br>
-<a href="https://www.amazon.com/author/johncairns">Amazon Author Page</a>
 </div>
