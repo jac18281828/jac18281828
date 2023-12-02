@@ -21,11 +21,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2023](https://2ad.com/advent-of-code-2023.html)
+- [Announcement tsdev:v20.10.0](https://2ad.com/tsdev-v20.10.0.html)
 - [History: Truce and Peace of God](https://2ad.com/history-truce-and-peace-of-god.html)
 - [Hacking pickups on highly customized Les Paul](https://2ad.com/hacking-pickups-on-highly-customized-les-paul.html)
 - [Impact of Java virtual threads on performance?](https://2ad.com/virtual-threads.html)
-- [EMOM Timer](https://2ad.com/emom-timer.html)
-- [History: aratum](https://2ad.com/history-aratum.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
