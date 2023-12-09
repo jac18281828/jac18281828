@@ -21,11 +21,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Index a String in Rust](https://2ad.com/string-index.html)
 - [Announcement godev:v1.21.4](https://2ad.com/godev-v1.21.4.html)
 - [Announcement solc:v0.8.23](https://2ad.com/solc-v0.8.23.html)
 - [History: Cluniac reforms](https://2ad.com/history-cluniac-reforms.html)
 - [Advent of Code 2023](https://2ad.com/advent-of-code-2023.html)
-- [Announcement tsdev:v20.10.0](https://2ad.com/tsdev-v20.10.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
