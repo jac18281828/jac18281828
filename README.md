@@ -21,11 +21,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lyn Scanner Rust Example](https://2ad.com/lyn-scanner.html)
+- [History: Investiture Controversy](https://2ad.com/history-investiture-controversy.html)
+- [History: melee](https://2ad.com/history-melee.html)
 - [History: Chivalry](https://2ad.com/history-chivalry.html)
 - [Index a String in Rust](https://2ad.com/string-index.html)
-- [Announcement godev:v1.21.4](https://2ad.com/godev-v1.21.4.html)
-- [Announcement solc:v0.8.23](https://2ad.com/solc-v0.8.23.html)
-- [History: Cluniac reforms](https://2ad.com/history-cluniac-reforms.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
