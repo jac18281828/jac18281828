@@ -21,11 +21,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dancing Cells](https://2ad.com/dancing-cells.html)
+- [History: Cistercians](https://2ad.com/history-cistercians.html)
 - [Lyn Scanner Rust Example](https://2ad.com/lyn-scanner.html)
 - [History: Investiture Controversy](https://2ad.com/history-investiture-controversy.html)
 - [History: melee](https://2ad.com/history-melee.html)
-- [History: Chivalry](https://2ad.com/history-chivalry.html)
-- [Index a String in Rust](https://2ad.com/string-index.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
