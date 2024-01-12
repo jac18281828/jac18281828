@@ -21,11 +21,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [My GPG Public Key Updated 2024](https://2ad.com/my-gpg-public-key-updated-2024.html)
+- [Announcement xmtp/foundry:v1.0.6](https://2ad.com/xmtp-foundry-v1.0.6.html)
+- [History: Hildegard of Bingen](https://2ad.com/history-hildegard-of-bingen.html)
 - [Dancing Cells](https://2ad.com/dancing-cells.html)
 - [History: Cistercians](https://2ad.com/history-cistercians.html)
-- [Lyn Scanner Rust Example](https://2ad.com/lyn-scanner.html)
-- [History: Investiture Controversy](https://2ad.com/history-investiture-controversy.html)
-- [History: melee](https://2ad.com/history-melee.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
