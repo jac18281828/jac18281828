@@ -4,7 +4,7 @@
 
 -   Experienced Software Engineer
 -   Solidity Smart Contract Developer
--   Open Source Innovator
+-   Open Source Enthusiast
 
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
