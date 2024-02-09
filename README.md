@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [My GPG Public Key Updated 2024](https://2ad.com/my-gpg-public-key-updated-2024.html)
-- [Announcement xmtp/foundry:v1.0.6](https://2ad.com/xmtp-foundry-v1.0.6.html)
-- [History: Hildegard of Bingen](https://2ad.com/history-hildegard-of-bingen.html)
-- [Dancing Cells](https://2ad.com/dancing-cells.html)
-- [History: Cistercians](https://2ad.com/history-cistercians.html)
+- [Announcement tsdev:v20.11.0](https://2ad.com/tsdev-v20.11.0.html)
+- [History: excommunicationinterdict](https://2ad.com/history-excommunicationinterdict.html)
+- [History: seven sacraments](https://2ad.com/history-seven-sacraments.html)
+- [History: Indulgences in the Middle Ages](https://2ad.com/history-indulgences-in-the-middle-ages.html)
+- [History: Cult of Mary](https://2ad.com/history-cult-of-mary.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
