@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement rustdev:v1.76.0](https://2ad.com/rustdev-v1.76.0.html)
+- [Announcement solc:v0.8.24](https://2ad.com/solc-v0.8.24.html)
 - [Announcement tsdev:v20.11.0](https://2ad.com/tsdev-v20.11.0.html)
 - [History: excommunicationinterdict](https://2ad.com/history-excommunicationinterdict.html)
 - [History: seven sacraments](https://2ad.com/history-seven-sacraments.html)
-- [History: Indulgences in the Middle Ages](https://2ad.com/history-indulgences-in-the-middle-ages.html)
-- [History: Cult of Mary](https://2ad.com/history-cult-of-mary.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
