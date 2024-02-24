@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Dominicans](https://2ad.com/history-dominicans.html)
+- [History: Frances of Assisi](https://2ad.com/history-frances-of-assisi.html)
 - [Announcement rustdev:v1.76.0](https://2ad.com/rustdev-v1.76.0.html)
 - [Announcement solc:v0.8.24](https://2ad.com/solc-v0.8.24.html)
 - [Announcement tsdev:v20.11.0](https://2ad.com/tsdev-v20.11.0.html)
-- [History: excommunicationinterdict](https://2ad.com/history-excommunicationinterdict.html)
-- [History: seven sacraments](https://2ad.com/history-seven-sacraments.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
