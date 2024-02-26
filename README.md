@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement collectivexyz/foundry:v1.0.0](https://2ad.com/collectivexyz-foundry-v1.0.0.html)
+- [Create and Edit Hyperlinks in Emacs Org Mode](https://2ad.com/org-hyperlinks.html)
+- [Announcement rust:v1.76.0_1](https://2ad.com/rust-v1.76.0_1.html)
+- [History: Albignesians](https://2ad.com/history-albignesians.html)
 - [History: Dominicans](https://2ad.com/history-dominicans.html)
-- [History: Frances of Assisi](https://2ad.com/history-frances-of-assisi.html)
-- [Announcement rustdev:v1.76.0](https://2ad.com/rustdev-v1.76.0.html)
-- [Announcement solc:v0.8.24](https://2ad.com/solc-v0.8.24.html)
-- [Announcement tsdev:v20.11.0](https://2ad.com/tsdev-v20.11.0.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
