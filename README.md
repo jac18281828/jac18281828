@@ -9,11 +9,11 @@
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [Edit Hyperlinks in Emacs Org Mode #Emacs #Org](https://www.youtube.com/watch?v=sJrFp_RYN8U)
 - [a c++ #programmer reacts to indexing a string in #rust](https://www.youtube.com/watch?v=pLJ8wkVYVJU)
 - [two ways to index a string in rust](https://www.youtube.com/watch?v=XiGyGBpNy4g)
 - [Frakencaster – Les Paul Hacking](https://www.youtube.com/watch?v=QewbvhJLm4s)
 - [FrankenCaster #short #lespaul #pickup #hacking](https://www.youtube.com/watch?v=qTzrGzuZAnw)
-- [Build and Test in Solidity](https://www.youtube.com/watch?v=Kb79-Ac3Ppc)
 <!-- VIDEO-LIST:END -->
 
 # [Blog](https://2ad.com)
