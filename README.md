@@ -20,10 +20,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hash It!](https://2ad.com/hash-it.html)
+- [trimtrain](https://2ad.com/trimtrain.html)
 - [Announcement collectivexyz/foundry:v1.0.0](https://2ad.com/collectivexyz-foundry-v1.0.0.html)
 - [Create and Edit Hyperlinks in Emacs Org Mode](https://2ad.com/org-hyperlinks.html)
 - [Announcement rust:v1.76.0_1](https://2ad.com/rust-v1.76.0_1.html)
-- [History: Albignesians](https://2ad.com/history-albignesians.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
