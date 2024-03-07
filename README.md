@@ -21,8 +21,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Announcement cpp:v1.0.18](https://2ad.com/cppdev-v1.0.18.html)
 - [History: Pope Urban II](https://2ad.com/history-pope-urban-ii.html)
-- [Hash It!](https://2ad.com/hash-it.html)
-- [trimtrain](https://2ad.com/trimtrain.html)
+- [Hash It! - unix utilities that should exist](https://2ad.com/hash-it.html)
+- [trimtrain - unix utilities that should exist](https://2ad.com/trimtrain.html)
 - [Announcement collectivexyz/foundry:v1.0.0](https://2ad.com/collectivexyz-foundry-v1.0.0.html)
 <!-- BLOG-POST-LIST:END -->
 
