@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [History: Peasants Crusade](https://2ad.com/history-peasants-crusade.html)
-- [History: Seljuk Turks](https://2ad.com/history-seljuk-turks.html)
-- [Announcement cpp:v1.0.18](https://2ad.com/cppdev-v1.0.18.html)
-- [History: Pope Urban II](https://2ad.com/history-pope-urban-ii.html)
-- [Hash It! - unix utilities that should exist](https://2ad.com/hash-it.html)
+- [Announcement collectivexyz/foundry:v1.0.1](https://2ad.com/collectivexyz-foundry-v1.0.1.html)
+- [History: guilds](https://2ad.com/history-guilds.html)
+- [History: Charters of Liberties](https://2ad.com/history-charters-of-liberties.html)
+- [History: Fairs of Champagne](https://2ad.com/history-fairs-of-champagne.html)
+- [History: Saladin](https://2ad.com/history-saladin.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
