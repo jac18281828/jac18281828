@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcement collectivexyz/foundry:v1.0.1](https://2ad.com/collectivexyz-foundry-v1.0.1.html)
-- [History: guilds](https://2ad.com/history-guilds.html)
-- [History: Charters of Liberties](https://2ad.com/history-charters-of-liberties.html)
-- [History: Fairs of Champagne](https://2ad.com/history-fairs-of-champagne.html)
-- [History: Saladin](https://2ad.com/history-saladin.html)
+- [History: universitas](https://2ad.com/history-universitas.html)
+- [History: scholasticism](https://2ad.com/history-scholasticism.html)
+- [Announcement collectivexyz/foundry:v1.0.2](https://2ad.com/collectivexyz-foundry-v1.0.2.html)
+- [History: burghers](https://2ad.com/history-burghers.html)
+- [When should we heed warnings?](https://2ad.com/when-should-we-heed-warnings.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
