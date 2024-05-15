@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: troubadours](https://2ad.com/history-troubadours.html)
 - [History: universitas](https://2ad.com/history-universitas.html)
 - [History: scholasticism](https://2ad.com/history-scholasticism.html)
 - [Announcement collectivexyz/foundry:v1.0.2](https://2ad.com/collectivexyz-foundry-v1.0.2.html)
 - [History: burghers](https://2ad.com/history-burghers.html)
-- [When should we heed warnings?](https://2ad.com/when-should-we-heed-warnings.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
