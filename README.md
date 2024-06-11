@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [What if you get RIFed?](https://2ad.com/terminated2024.html)
+- [History: Frederick Barbarossa](https://2ad.com/history-frederick-barbarossa.html)
 - [History: Thomas Becket](https://2ad.com/history-thomas-becket.html)
 - [History: Domesday Book](https://2ad.com/history-domesday-book.html)
 - [History: William of Normandy](https://2ad.com/history-william-of-normandy.html)
-- [History: troubadours](https://2ad.com/history-troubadours.html)
-- [History: universitas](https://2ad.com/history-universitas.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
