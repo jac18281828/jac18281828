@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Teutonic Knights](https://2ad.com/history-teutonic-knights.html)
 - [Announcement collectivexyz/foundry:v1.0.4](https://2ad.com/collectivexyz-foundry-v1.0.4.html)
 - [History: Magna Carta](https://2ad.com/history-magna-carta.html)
 - [History: English parliament](https://2ad.com/history-english-parliament.html)
 - [What if you get RIFed?](https://2ad.com/terminated2024.html)
-- [History: Frederick Barbarossa](https://2ad.com/history-frederick-barbarossa.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
