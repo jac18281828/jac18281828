@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: EstatesGeneral](https://2ad.com/history-estatesgeneral.html)
 - [History: Flagellant](https://2ad.com/history-flagellant.html)
 - [History: Black Death](https://2ad.com/history-black-death.html)
 - [History: Alexander Nevsky](https://2ad.com/history-alexander-nevsky.html)
 - [History: Kievan Rus State](https://2ad.com/history-kievan-rus-state.html)
-- [History: Teutonic Knights](https://2ad.com/history-teutonic-knights.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
