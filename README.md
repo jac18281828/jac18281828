@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Bonifice VIII](https://2ad.com/history-bonifice-viii.html)
+- [History: Joan of Arc](https://2ad.com/history-joan-of-arc.html)
+- [History: Agincourt](https://2ad.com/history-agincourt.html)
 - [History: Poitiers](https://2ad.com/history-poitiers.html)
 - [History: Crecy](https://2ad.com/history-crecy.html)
-- [History: Hundred Years War](https://2ad.com/history-hundred-years-war.html)
-- [History: Jacquerie](https://2ad.com/history-jacquerie.html)
-- [History: EstatesGeneral](https://2ad.com/history-estatesgeneral.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
