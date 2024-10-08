@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement tsdev:v22.9.0](https://2ad.com/tsdev-v22.9.0.html)
+- [History: Avignon Papacy](https://2ad.com/history-avignon-papacy.html)
+- [Announcement solana:v1.18.25](https://2ad.com/solana-v1.18.25.html)
+- [History: Unam Sanctam](https://2ad.com/history-unam-sanctam.html)
 - [History: Bonifice VIII](https://2ad.com/history-bonifice-viii.html)
-- [History: Joan of Arc](https://2ad.com/history-joan-of-arc.html)
-- [History: Agincourt](https://2ad.com/history-agincourt.html)
-- [History: Poitiers](https://2ad.com/history-poitiers.html)
-- [History: Crecy](https://2ad.com/history-crecy.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
