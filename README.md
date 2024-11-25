@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [EMOM Timer - Rust + WebAssembly in Action](https://2ad.com/emom-timer-update.html)
-- [History: Dante](https://2ad.com/history-dante.html)
-- [History: Great Schism](https://2ad.com/history-great-schism.html)
-- [Announcement tsdev:v22.9.0](https://2ad.com/tsdev-v22.9.0.html)
-- [History: Avignon Papacy](https://2ad.com/history-avignon-papacy.html)
+- [Debugging Smart Contracts with Foundry](https://2ad.com/foundry-debug.html)
+- [History: Machiavelli](https://2ad.com/history-machiavelli.html)
+- [History: Civic humanism](https://2ad.com/history-civic-humanism.html)
+- [History: Petrarch](https://2ad.com/history-petrarch.html)
+- [History: House of Medici](https://2ad.com/history-house-of-medici.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
