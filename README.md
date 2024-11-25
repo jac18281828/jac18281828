@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2024](https://2ad.com/advent-of-code-2024.html)
 - [Debugging Smart Contracts with Foundry](https://2ad.com/foundry-debug.html)
 - [History: Machiavelli](https://2ad.com/history-machiavelli.html)
 - [History: Civic humanism](https://2ad.com/history-civic-humanism.html)
 - [History: Petrarch](https://2ad.com/history-petrarch.html)
-- [History: House of Medici](https://2ad.com/history-house-of-medici.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
