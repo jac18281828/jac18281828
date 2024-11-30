@@ -9,11 +9,11 @@
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [const in rust – 3 essential tips](https://www.youtube.com/watch?v=q4aXvWwY_6U)
 - [Debugging Smart Contracts with Foundry](https://www.youtube.com/watch?v=SmSDBJ5S0KE)
 - [Tech Workers: What to do if you get terminated, updated 2024](https://www.youtube.com/watch?v=ysfAFObjtJs)
 - [Edit Hyperlinks in Emacs Org Mode #Emacs #Org](https://www.youtube.com/watch?v=sJrFp_RYN8U)
 - [a c++ #programmer reacts to indexing a string in #rust](https://www.youtube.com/watch?v=pLJ8wkVYVJU)
-- [two ways to index a string in rust](https://www.youtube.com/watch?v=XiGyGBpNy4g)
 <!-- VIDEO-LIST:END -->
 
 # [Blog](https://2ad.com)
