@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Isabella and Ferdinand](https://2ad.com/history-isabella-and-ferdinand.html)
+- [History: Henry VII Tudor](https://2ad.com/history-henry-vii-tudor.html)
+- [History: War of the Roses](https://2ad.com/history-war-of-the-roses.html)
 - [How to Debug Custom Errors in Ethereum Using Foundry and Forge](https://2ad.com/ethereum-custom-error-debug.html)
 - [History: School of Athens](https://2ad.com/history-school-of-athens.html)
-- [Solana Anchor Build Setup Dockerfile](https://2ad.com/solana-anchor.html)
-- [History: Johanne Gutenberg](https://2ad.com/history-johanne-gutenberg.html)
-- [const in rust - 3 essentials](https://2ad.com/rust-const.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
