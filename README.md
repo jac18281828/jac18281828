@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Protestant Reformation](https://2ad.com/history-protestant-reformation.html)
+- [History: Julius II](https://2ad.com/history-julius-ii.html)
+- [History: Fall of Constantinople](https://2ad.com/history-fall-of-constantinople.html)
+- [History: Habsburgs](https://2ad.com/history-habsburgs.html)
 - [How to use ed - the original text editor](https://2ad.com/how-to-use-ed-the-original-text-editor.html)
-- [Beans Test Kitchen - Panettone Taste Test](https://2ad.com/beans-test-kitchen-panettone-taste-test.html)
-- [History: Isabella and Ferdinand](https://2ad.com/history-isabella-and-ferdinand.html)
-- [History: Henry VII Tudor](https://2ad.com/history-henry-vii-tudor.html)
-- [History: War of the Roses](https://2ad.com/history-war-of-the-roses.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
