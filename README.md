@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Programing like NASA, the Power of Ten](https://2ad.com/power-of-ten.html)
+- [History: Pluralism](https://2ad.com/history-pluralism.html)
+- [History: Indulgences](https://2ad.com/history-indulgences.html)
+- [History: Martin Luther](https://2ad.com/history-martin-luther.html)
 - [History: Protestant Reformation](https://2ad.com/history-protestant-reformation.html)
-- [History: Julius II](https://2ad.com/history-julius-ii.html)
-- [History: Fall of Constantinople](https://2ad.com/history-fall-of-constantinople.html)
-- [History: Habsburgs](https://2ad.com/history-habsburgs.html)
-- [How to use ed - the original text editor](https://2ad.com/how-to-use-ed-the-original-text-editor.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
