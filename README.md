@@ -9,11 +9,11 @@
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [A C++ programmer reacts to The Power of Ten](https://www.youtube.com/watch?v=GLdmHTBKzrs)
 - [Should you write code like NASA? Reacting to The Power of Ten!](https://www.youtube.com/watch?v=0vzD2-r7gGQ)
 - [How to use ed – the original unix text editor](https://www.youtube.com/watch?v=o6XyxQhjDmM)
 - [Beans Test Kitchen – Panettone Blind Taste Test](https://www.youtube.com/watch?v=zXKj_7cFGjc)
 - [Debug a custom error Ethereum #solidity #foundry](https://www.youtube.com/watch?v=AnGDygczGp8)
-- [How to Debug Custom Errors in Ethereum Using Foundry and Forge](https://www.youtube.com/watch?v=Q3dPEYfbqcI)
 <!-- VIDEO-LIST:END -->
 
 # [Blog](https://2ad.com)
