@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Peace of Augsburg](https://2ad.com/history-peace-of-augsburg.html)
+- [History: Edict of Worms](https://2ad.com/history-edict-of-worms.html)
+- [History: justification by faith](https://2ad.com/history-justification-by-faith.html)
 - [Programing like NASA, the Power of Ten](https://2ad.com/power-of-ten.html)
 - [History: Pluralism](https://2ad.com/history-pluralism.html)
-- [History: Indulgences](https://2ad.com/history-indulgences.html)
-- [History: Martin Luther](https://2ad.com/history-martin-luther.html)
-- [History: Protestant Reformation](https://2ad.com/history-protestant-reformation.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
