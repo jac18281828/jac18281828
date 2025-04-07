@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Papal Index](https://2ad.com/history-papal-index.html)
+- [History: Act of Supremacy](https://2ad.com/history-act-of-supremacy.html)
+- [History: Predestination](https://2ad.com/history-predestination.html)
+- [History: Anabaptists](https://2ad.com/history-anabaptists.html)
 - [History: Peace of Augsburg](https://2ad.com/history-peace-of-augsburg.html)
-- [History: Edict of Worms](https://2ad.com/history-edict-of-worms.html)
-- [History: justification by faith](https://2ad.com/history-justification-by-faith.html)
-- [Programing like NASA, the Power of Ten](https://2ad.com/power-of-ten.html)
-- [History: Pluralism](https://2ad.com/history-pluralism.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
