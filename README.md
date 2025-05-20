@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [History: Jesuit](https://2ad.com/history-jesuit.html)
+- [History: CounterReformation](https://2ad.com/history-counterreformation.html)
 - [History: Papal Index](https://2ad.com/history-papal-index.html)
 - [History: Act of Supremacy](https://2ad.com/history-act-of-supremacy.html)
 - [History: Predestination](https://2ad.com/history-predestination.html)
-- [History: Anabaptists](https://2ad.com/history-anabaptists.html)
-- [History: Peace of Augsburg](https://2ad.com/history-peace-of-augsburg.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
