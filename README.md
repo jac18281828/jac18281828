@@ -9,11 +9,11 @@
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [Parsm - an everything parser #unix #rustlang](https://www.youtube.com/shorts/cxo6O3oNtrA)
 - [A C++ programmer reacts to The Power of Ten](https://www.youtube.com/shorts/GLdmHTBKzrs)
 - [Should you write code like NASA? Reacting to The Power of Ten!](https://www.youtube.com/watch?v=0vzD2-r7gGQ)
 - [How to use ed – the original unix text editor](https://www.youtube.com/watch?v=o6XyxQhjDmM)
 - [Beans Test Kitchen – Panettone Blind Taste Test](https://www.youtube.com/shorts/zXKj_7cFGjc)
-- [Debug a custom error Ethereum #solidity #foundry](https://www.youtube.com/shorts/AnGDygczGp8)
 <!-- VIDEO-LIST:END -->
 
 # [Blog](https://2ad.com)
