@@ -19,11 +19,11 @@
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Parsm - an Everything Parser](https://2ad.com/parsm-an-everything-parser.html)
 - [History: Jesuit](https://2ad.com/history-jesuit.html)
 - [History: CounterReformation](https://2ad.com/history-counterreformation.html)
 - [History: Papal Index](https://2ad.com/history-papal-index.html)
 - [History: Act of Supremacy](https://2ad.com/history-act-of-supremacy.html)
-- [History: Predestination](https://2ad.com/history-predestination.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
