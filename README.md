@@ -22,11 +22,11 @@ I’m John — I build distributed systems in Rust and develop smart contracts f
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcement rust:v1.91.1](https://2ad.com/rust-v1.91.1.html)
 - [c-style for loop in bash](https://2ad.com/for-loop-youtube-short.html)
 - [Every Light Meter Tutorial on YouTube Is Wrong](https://2ad.com/light-meter-tutorial-mistakes.html)
 - [Parsm - an Everything Parser](https://2ad.com/parsm-an-everything-parser.html)
 - [History: Jesuit](https://2ad.com/history-jesuit.html)
-- [History: CounterReformation](https://2ad.com/history-counterreformation.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
