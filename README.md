@@ -12,11 +12,11 @@ I’m John — I build distributed systems in Rust and develop smart contracts f
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [2 commands for every cracked #emacs nerd 🔥🤓#linux](https://www.youtube.com/shorts/T_-Qg7jDe6s)
 - [Every #lightmeter tutorial on YouTube is wrong! 🤓📸 #nikon#sekonic#photography](https://www.youtube.com/shorts/6Q6nfe3Z19E)
 - [how to write a c style for loop in unix shell 🤯 #bash#linux#c#rust](https://www.youtube.com/shorts/HxN0Zlhvb5E)
 - [Parsm - an everything parser #unix #rustlang](https://www.youtube.com/shorts/cxo6O3oNtrA)
 - [A C++ programmer reacts to The Power of Ten](https://www.youtube.com/shorts/GLdmHTBKzrs)
-- [Should you write code like NASA? Reacting to The Power of Ten!](https://www.youtube.com/watch?v=0vzD2-r7gGQ)
 <!-- VIDEO-LIST:END -->
 
 # [Blog](https://2ad.com)
