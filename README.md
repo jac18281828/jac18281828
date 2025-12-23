@@ -22,11 +22,11 @@ I’m John — I build distributed systems in Rust and develop smart contracts f
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Rename the Way You Mean To](https://2ad.com/snipren-deterministic-rename-utility.html)
 - [mastering mark in emacs](https://2ad.com/emacs-mark-youtube-short.html)
 - [Announcement rust:v1.91.1](https://2ad.com/rust-v1.91.1.html)
 - [c-style for loop in bash](https://2ad.com/for-loop-youtube-short.html)
 - [Every Light Meter Tutorial on YouTube Is Wrong](https://2ad.com/light-meter-tutorial-mistakes.html)
-- [Parsm - an Everything Parser](https://2ad.com/parsm-an-everything-parser.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
