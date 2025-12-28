@@ -22,11 +22,11 @@ I’m John — I build distributed systems in Rust and develop smart contracts f
 # [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Advent of Code 2025](https://2ad.com/advent-of-code-2025.html)
 - [Checksmix - Blazing Fast MMIX](https://2ad.com/checksmix-fast-mmix-emulator.html)
 - [Rename the Way You Mean To](https://2ad.com/snipren-deterministic-rename-utility.html)
 - [mastering mark in emacs](https://2ad.com/emacs-mark-youtube-short.html)
 - [Announcement rust:v1.91.1](https://2ad.com/rust-v1.91.1.html)
-- [c-style for loop in bash](https://2ad.com/for-loop-youtube-short.html)
 <!-- BLOG-POST-LIST:END -->
 
 # [My Gists](https://gist.github.com/jac18281828)
