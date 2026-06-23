@@ -30,17 +30,13 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 - **[gofib](https://github.com/jac18281828/gofib)** (Go) — arbitrary-precision Fibonacci by fast-doubling in O(log n), plus a goroutine-parallel Fibonacci-prime search with Miller–Rabin. Computes F(300,000,000) — 62.7M digits — in 3m 25s on an M2 Max.
 - **[emomtimer](https://github.com/jac18281828/emomtimer)** (Rust · Yew · WASM → [emomtimer.2ad.com](https://emomtimer.2ad.com)) — a drift-correcting countdown timer in WebAssembly; wall-clock resync and drift detection keep it accurate over hours of background-tab throttling.
 
-### Zero-Knowledge & Cryptography
-
-- **[ffsid](https://github.com/jac18281828/ffsid)** — Fiat–Shamir identity proofs in C (Blum integers, quadratic residuosity).
-- **[zokratescrucible](https://github.com/jac18281828/zokratescrucible)** — zkSNARK circuits with ZoKrates.
-- **[quadraticgnark](https://github.com/jac18281828/quadraticgnark)** — Go + gnark R1CS circuits for quadratic-residue proofs.
-
-### Blockchain & Smart Contracts
+### Blockchain & Cryptography
 
 - **[Fabric](https://benchmark.withfabric.xyz)** — the highest-performing DEX aggregator. See the live [benchmark](https://benchmark.withfabric.xyz).
 - **[collective-governance-v1](https://github.com/collectivexyz/collective-governance-v1)** — author of Collective Governance, an open-source on-chain Ethereum voting/consensus protocol (Solidity).
 - **[stader-labs/ethx](https://github.com/stader-labs/ethx)** — contributor to ETHx, a multi-pool liquid-staking protocol for Ethereum (Solidity).
+- **[ffsid](https://github.com/jac18281828/ffsid)** — zero-knowledge Fiat–Shamir identity proofs in C (Blum integers, quadratic residuosity).
+- **[quadraticgnark](https://github.com/jac18281828/quadraticgnark)** — zero-knowledge proofs with Go + gnark R1CS circuits.
 
 ### Rust & Unix Tooling
 
