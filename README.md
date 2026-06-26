@@ -16,6 +16,15 @@ Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 
 I’m an experienced software engineer and systems-programming polyglot (Rust, C++, Go, Python), a Solidity smart-contract developer, and an open-source enthusiast. Unix tinkerer, musician, space traveler.
 
+## Connect
+
+<div>
+    <a href="https://www.linkedin.com/in/johnacairns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@johnacairns"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.instagram.com/jac18281828"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@jac1828"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</div>
+
 ## What I Build
 
 **[conversant/disruptor](https://github.com/conversant/disruptor)** &nbsp;★ 323 — the highest-performing intra-thread transfer mechanism available in Java: a benchmark-proven ring-buffer `BlockingQueue` on Maven Central (`com.conversantmedia:disruptor`). Shipped as a [Debian / Ubuntu package](https://packages.debian.org/source/stable/conversant-disruptor) and supported by [Apache Log4j 2](https://logging.apache.org/log4j/2.x/manual/appenders/delegating.html) as an async-logging queue.
@@ -50,16 +59,7 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 - **[istream_block_iterator](https://github.com/jac18281828/istream_block_iterator)** — an STL-compatible chunked stream iterator.
 - **[gzkfast](https://github.com/jac18281828/gzkfast)** — an astrophysical event generator on the GNU Scientific Library (C++; archived grad-school project, and where the Physics background comes from).
 
-# Connect
-
-<div>
-    <a href="https://www.linkedin.com/in/johnacairns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@johnacairns"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://www.instagram.com/jac18281828"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.tiktok.com/@jac1828"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-</div>
-
-# [Latest Videos](https://www.youtube.com/@johnacairns)
+## [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
 - [2 commands for every cracked #emacs nerd 🔥🤓#linux](https://www.youtube.com/shorts/T_-Qg7jDe6s)
@@ -69,7 +69,7 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 - [A C++ programmer reacts to The Power of Ten](https://www.youtube.com/shorts/GLdmHTBKzrs)
 <!-- VIDEO-LIST:END -->
 
-# [Blog](https://2ad.com)
+## [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Advent of Code 2025](https://2ad.com/advent-of-code-2025.html)
@@ -79,6 +79,6 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 - [Announcement rust:v1.91.1](https://2ad.com/rust-v1.91.1.html)
 <!-- BLOG-POST-LIST:END -->
 
-# [My Gists](https://gist.github.com/jac18281828)
+## [My Gists](https://gist.github.com/jac18281828)
 
 <img src="https://gists-readme.yizack.com/api?user=jac18281828" />
