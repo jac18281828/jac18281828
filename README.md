@@ -50,6 +50,15 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 - **[istream_block_iterator](https://github.com/jac18281828/istream_block_iterator)** — an STL-compatible chunked stream iterator.
 - **[gzkfast](https://github.com/jac18281828/gzkfast)** — an astrophysical event generator on the GNU Scientific Library (C++; archived grad-school project, and where the Physics background comes from).
 
+# Connect
+
+<div>
+    <a href="https://www.linkedin.com/in/johnacairns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@johnacairns"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://www.instagram.com/jac18281828"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@jac1828"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</div>
+
 # [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
@@ -73,11 +82,3 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 # [My Gists](https://gist.github.com/jac18281828)
 
 <img src="https://gists-readme.yizack.com/api?user=jac18281828" />
-
-# Connect
-
-<div>
-    <a href="https://www.linkedin.com/in/johnacairns"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@johnacairns">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</div>
