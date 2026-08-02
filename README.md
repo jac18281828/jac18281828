@@ -62,11 +62,11 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 ## [Latest Videos](https://www.youtube.com/@johnacairns)
 
 <!-- VIDEO-LIST:START -->
+- [Save Tokens by Delegated Tool Calls in #claude #ai #promptengineering](https://www.youtube.com/shorts/7Fc4ucj7ANw)
+- [Save 40 Percent on Input Tokens with this Prompt Hack #ai #claude](https://www.youtube.com/shorts/mg83Bu4P84E)
 - [2 commands for every cracked #emacs nerd 🔥🤓#linux](https://www.youtube.com/shorts/T_-Qg7jDe6s)
 - [Every #lightmeter tutorial on YouTube is wrong! 🤓📸 #nikon#sekonic#photography](https://www.youtube.com/shorts/6Q6nfe3Z19E)
 - [how to write a c style for loop in unix shell 🤯 #bash#linux#c#rust](https://www.youtube.com/shorts/HxN0Zlhvb5E)
-- [Parsm - an everything parser #unix #rustlang](https://www.youtube.com/shorts/cxo6O3oNtrA)
-- [A C++ programmer reacts to The Power of Ten](https://www.youtube.com/shorts/GLdmHTBKzrs)
 <!-- VIDEO-LIST:END -->
 
 ## [Blog](https://2ad.com)
