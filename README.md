@@ -72,11 +72,11 @@ I’m an experienced software engineer and systems-programming polyglot (Rust, C
 ## [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Save 40% on Input Tokens with This Prompt Hack](https://2ad.com/input-tokens-youtube-short.html)
 - [Advent of Code 2025](https://2ad.com/advent-of-code-2025.html)
 - [Checksmix - Blazing Fast MMIX](https://2ad.com/checksmix-fast-mmix-emulator.html)
 - [Rename the Way You Mean To](https://2ad.com/snipren-deterministic-rename-utility.html)
 - [mastering mark in emacs](https://2ad.com/emacs-mark-youtube-short.html)
-- [Announcement rust:v1.91.1](https://2ad.com/rust-v1.91.1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## [My Gists](https://gist.github.com/jac18281828)
