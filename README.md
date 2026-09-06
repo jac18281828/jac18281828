@@ -80,9 +80,9 @@ Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 ## [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [PlayMMIX — MMIX in the Browser](https://2ad.com/playmmix-browser-playground.html)
 - [MMIXdb — a Tiptoe through the Tangents](https://2ad.com/mmix-debugger.html)
 - [Dispatch a Claude Prompt Straight from Emacs&#39;s Kill Ring](https://2ad.com/emacs-kill-ring-claude-short.html)
 - [Save 40% on Input Tokens with This Prompt Hack](https://2ad.com/input-tokens-youtube-short.html)
 - [A Fix is not a Plan](https://2ad.com/a-fix-is-not-a-plan.html)
-- [Advent of Code 2025](https://2ad.com/advent-of-code-2025.html)
 <!-- BLOG-POST-LIST:END -->
