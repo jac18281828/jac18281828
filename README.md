@@ -38,7 +38,7 @@ Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 ### Systems & Emulation
 
 - **[checksmix](https://github.com/jac18281828/checksmix)** (Rust · crates.io) — a complete MMIX assembler and emulator for Knuth’s 64-bit RISC architecture: 256 general-purpose registers, IEEE-754 floating point with configurable rounding modes, TRAP-based I/O, and multi-source assembly via a pest parser.
-- **[gman](https://github.com/jac18281828/gman)** (C++) — a RenderMan-compatible renderer: started in 1999, shelved in 2002, revived in 2026 on a modern CMake / C++23 build. Full RIB front end, a working back end (object → world → camera → screen → raster, Gouraud-shaded surface shaders, TIFF/PNG/JPEG output), sanitizer-gated CI.
+- **[gman](https://github.com/jac18281828/gman)** (C++) — a RenderMan-compatible renderer: started in 1999, revived in 2026 on a modern CMake / C++23 build. Full RIB front end, a working back end (object → world → camera → screen → raster, Gouraud-shaded surface shaders, TIFF/PNG/JPEG output), sanitizer-gated CI.
 - **[emomtimer](https://github.com/jac18281828/emomtimer)** (Rust · Yew · WASM → [emomtimer.2ad.com](https://emomtimer.2ad.com)) — a drift-correcting countdown timer in WebAssembly; wall-clock resync and drift detection keep it accurate over hours of background-tab throttling.
 
 ### Blockchain & Cryptography
