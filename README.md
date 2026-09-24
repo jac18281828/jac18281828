@@ -29,8 +29,7 @@ Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 
 ## You Must Try This
 
-Some of what I build is infrastructure and some is fun. These run in your
-browser or on your laptop: go play.
+Some of what I build is serious fun. 
 
 <table>
 <tr>
@@ -38,10 +37,8 @@ browser or on your laptop: go play.
 <a href="https://playmmix.2ad.com"><img src="img/playmmix-mobile.jpg" width="240" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
 <h3><a href="https://playmmix.2ad.com">▶ PlayMMIX</a></h3>
 Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
-browser or on your phone, watching registers and memory change as each
-instruction runs. Nothing to install; share a program as a link. It runs on
-<a href="https://github.com/jac18281828/checksmix">checksmix</a>, my Rust MMIX
-emulator.
+browser. It runs on <a href="https://github.com/jac18281828/checksmix">checksmix</a>, 
+my Rust MMIX emulator.
 <br /><br />
 <a href="https://playmmix.2ad.com"><b>Play now</b></a> ·
 <a href="https://github.com/jac18281828/playmmix">source</a>
@@ -49,9 +46,9 @@ emulator.
 <td width="50%" valign="top">
 <a href="https://github.com/jac18281828/gman"><img src="https://raw.githubusercontent.com/jac18281828/gman/main/samples/vase.png" width="240" alt="gman render: a robot drives into a table and tips a vase" /></a>
 <h3><a href="https://github.com/jac18281828/gman">🎬 gman</a></h3>
-A RenderMan renderer I wrote in 1999 and brought back to life in 2026. Grab a
-binary, describe a scene (your desk, or a robot crashing into a vase) in a
-<code>.rib</code> file and render it to PNG.
+A RenderMan renderer I wrote in 1999 and brought back to life in 2026. Describe
+a scene, say a robot crashing into a vase, in a <code>.rib</code> file and
+render it.
 <br /><br />
 <a href="https://github.com/jac18281828/gman/releases/latest"><b>Download a release</b></a> ·
 <a href="https://github.com/jac18281828/gman/tree/main/samples">sample scenes</a>
@@ -69,6 +66,7 @@ Yew, compiled to WebAssembly.
 <a href="https://github.com/jac18281828/solitare">source</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://emomtimer.2ad.com"><img src="img/emomtimer.jpg" width="240" alt="EMOM Timer mid-round: 0:42.3 left in round 1 of 5" /></a>
 <h3><a href="https://emomtimer.2ad.com">⏱ EMOM Timer</a></h3>
 An every-minute-on-the-minute workout timer in WebAssembly that stays accurate
 for hours, even when your browser throttles the background tab.
