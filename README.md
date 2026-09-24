@@ -42,7 +42,9 @@ Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
 browser, watching registers and memory change as each instruction runs. No
 install. Share a program as a link. Built on
 <a href="https://github.com/jac18281828/checksmix">checksmix</a>, my Rust MMIX
-emulator.
+emulator. It works on your phone, too:
+<br /><br />
+<a href="https://playmmix.2ad.com"><img src="img/playmmix-phone.jpg" width="260" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
 <br /><br />
 <a href="https://playmmix.2ad.com"><b>Play now</b></a> ·
 <a href="https://github.com/jac18281828/playmmix">source</a>
@@ -60,7 +62,7 @@ a robot crashing into a vase — and render it to PNG.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://solitare.2ad.com"><img src="img/solitaire.jpg" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
+<a href="https://solitare.2ad.com"><img src="img/solitaire-cards.jpg" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
 <h3><a href="https://solitare.2ad.com">🃏 Solitaire of Olympus</a></h3>
 Klondike solitaire under the gods of Greece and Rome: gold, ivy, Cupid and
 Bacchus. Drag cards, or let <i>Auto To Temple</i> handle it. Rust, Yew and
