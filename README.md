@@ -36,7 +36,7 @@ your browser or on your laptop in under a minute — go play.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://playmmix.2ad.com"><img src="img/playmmix.png" alt="PlayMMIX: Hello World in MMIX assembly" /></a>
+<a href="https://playmmix.2ad.com"><img src="img/playmmix.png" alt="PlayMMIX: Hello, Halt. in MMIX assembly" /></a>
 <h3><a href="https://playmmix.2ad.com">▶ PlayMMIX</a></h3>
 Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
 browser, watching registers and memory change as each instruction runs. No
@@ -60,7 +60,7 @@ a robot crashing into a vase — and render it to PNG.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://solitare.2ad.com"><img src="img/solitaire.jpg" alt="Solitaire of Olympus: a Klondike deal with Bacchus and ivy face cards" /></a>
+<a href="https://solitare.2ad.com"><img src="img/solitaire.jpg" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
 <h3><a href="https://solitare.2ad.com">🃏 Solitaire of Olympus</a></h3>
 Klondike solitaire under the gods of Greece and Rome: gold, ivy, Cupid and
 Bacchus. Drag cards, or let <i>Auto To Temple</i> handle it. Rust, Yew and
