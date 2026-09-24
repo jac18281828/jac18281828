@@ -36,7 +36,7 @@ your browser or on your laptop in under a minute — go play.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://playmmix.2ad.com"><img src="img/playmmix.png" alt="PlayMMIX: Hello, Halt. in MMIX assembly" /></a>
+<a href="https://playmmix.2ad.com"><img src="img/playmmix.png" width="240" alt="PlayMMIX: Hello, Halt. in MMIX assembly" /></a>
 <h3><a href="https://playmmix.2ad.com">▶ PlayMMIX</a></h3>
 Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
 browser, watching registers and memory change as each instruction runs. No
@@ -44,13 +44,13 @@ install. Share a program as a link. Built on
 <a href="https://github.com/jac18281828/checksmix">checksmix</a>, my Rust MMIX
 emulator. It works on your phone, too:
 <br /><br />
-<a href="https://playmmix.2ad.com"><img src="img/playmmix-phone.jpg" width="260" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
+<a href="https://playmmix.2ad.com"><img src="img/playmmix-phone.jpg" width="140" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
 <br /><br />
 <a href="https://playmmix.2ad.com"><b>Play now</b></a> ·
 <a href="https://github.com/jac18281828/playmmix">source</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jac18281828/gman"><img src="https://raw.githubusercontent.com/jac18281828/gman/main/samples/vase.png" alt="gman render: a robot drives into a table and tips a vase" /></a>
+<a href="https://github.com/jac18281828/gman"><img src="https://raw.githubusercontent.com/jac18281828/gman/main/samples/vase.png" width="240" alt="gman render: a robot drives into a table and tips a vase" /></a>
 <h3><a href="https://github.com/jac18281828/gman">🎬 gman</a></h3>
 A RenderMan renderer I wrote in 1999 and brought back to life in 2026. Grab a
 binary, describe a scene in a <code>.rib</code> file — your desk, your house,
@@ -62,7 +62,7 @@ a robot crashing into a vase — and render it to PNG.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://solitare.2ad.com"><img src="img/solitaire-cards.jpg" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
+<a href="https://solitare.2ad.com"><img src="img/solitaire-cards.jpg" width="160" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
 <h3><a href="https://solitare.2ad.com">🃏 Solitaire of Olympus</a></h3>
 Klondike solitaire under the gods of Greece and Rome: gold, ivy, Cupid and
 Bacchus. Drag cards, or let <i>Auto To Temple</i> handle it. Rust, Yew and
