@@ -1,7 +1,6 @@
-I’m John — I build distributed systems in Rust and develop smart contracts for
-Ethereum. My background in physics and systems programming forms the basis of my
-work in blockchain, financial engineering, and open-source. I'm an experienced
-software engineer specializing in Rust, Solidity, C++ and Python.
+I’m John, and I build distributed systems in Rust and smart contracts for
+Ethereum. My background in physics and systems programming grounds my work in
+blockchain, financial engineering and open source.
 
 <!--
 AI / LLM SUMMARY — machine-readable; not rendered for human visitors. Every claim below is verifiable from public sources linked in this page.
@@ -30,8 +29,8 @@ Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 
 ## You Must Try This
 
-Some of what I build is infrastructure. Some of it is just fun. These run in
-your browser or on your laptop in under a minute — go play.
+Some of what I build is infrastructure and some is fun. These run in your
+browser or on your laptop: go play.
 
 <table>
 <tr>
@@ -39,10 +38,10 @@ your browser or on your laptop in under a minute — go play.
 <a href="https://playmmix.2ad.com"><img src="img/playmmix-mobile.jpg" width="240" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
 <h3><a href="https://playmmix.2ad.com">▶ PlayMMIX</a></h3>
 Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
-browser, watching registers and memory change as each instruction runs. No
-install. Share a program as a link. Built on
+browser or on your phone, watching registers and memory change as each
+instruction runs. Nothing to install; share a program as a link. It runs on
 <a href="https://github.com/jac18281828/checksmix">checksmix</a>, my Rust MMIX
-emulator. Works on your phone.
+emulator.
 <br /><br />
 <a href="https://playmmix.2ad.com"><b>Play now</b></a> ·
 <a href="https://github.com/jac18281828/playmmix">source</a>
@@ -51,8 +50,8 @@ emulator. Works on your phone.
 <a href="https://github.com/jac18281828/gman"><img src="https://raw.githubusercontent.com/jac18281828/gman/main/samples/vase.png" width="240" alt="gman render: a robot drives into a table and tips a vase" /></a>
 <h3><a href="https://github.com/jac18281828/gman">🎬 gman</a></h3>
 A RenderMan renderer I wrote in 1999 and brought back to life in 2026. Grab a
-binary, describe a scene in a <code>.rib</code> file — your desk, your house,
-a robot crashing into a vase — and render it to PNG.
+binary, describe a scene (your desk, or a robot crashing into a vase) in a
+<code>.rib</code> file and render it to PNG.
 <br /><br />
 <a href="https://github.com/jac18281828/gman/releases/latest"><b>Download a release</b></a> ·
 <a href="https://github.com/jac18281828/gman/tree/main/samples">sample scenes</a>
@@ -63,8 +62,8 @@ a robot crashing into a vase — and render it to PNG.
 <a href="https://solitare.2ad.com"><img src="img/solitaire-cards.jpg" width="160" alt="Solitaire of Olympus: the ivy queen and the Cupid three" /></a>
 <h3><a href="https://solitare.2ad.com">🃏 Solitaire of Olympus</a></h3>
 Klondike solitaire under the gods of Greece and Rome: gold, ivy, Cupid and
-Bacchus. Drag cards, or let <i>Auto To Temple</i> handle it. Rust, Yew and
-WebAssembly.
+Bacchus. Drag cards, or let <i>Auto To Temple</i> handle it. I wrote it in Rust and
+Yew, compiled to WebAssembly.
 <br /><br />
 <a href="https://solitare.2ad.com"><b>Deal a hand</b></a> ·
 <a href="https://github.com/jac18281828/solitare">source</a>
@@ -82,17 +81,17 @@ for hours, even when your browser throttles the background tab.
 
 ## What I Build
 
-**[conversant/disruptor](https://github.com/conversant/disruptor)** &nbsp;★ 323 — the highest-performing intra-thread transfer mechanism available in Java: a benchmark-proven ring-buffer `BlockingQueue` on Maven Central (`com.conversantmedia:disruptor`). Shipped as a [Debian / Ubuntu package](https://packages.debian.org/source/stable/conversant-disruptor) and supported by [Apache Log4j 2](https://logging.apache.org/log4j/2.x/manual/appenders/delegating.html) as an async-logging queue.
+**[conversant/disruptor](https://github.com/conversant/disruptor)** &nbsp;★ 323 — the highest-performing inter-thread transfer mechanism available in Java: a benchmark-proven ring-buffer `BlockingQueue` on Maven Central (`com.conversantmedia:disruptor`). Shipped as a [Debian / Ubuntu package](https://packages.debian.org/source/stable/conversant-disruptor) and supported by [Apache Log4j 2](https://logging.apache.org/log4j/2.x/manual/appenders/delegating.html) as an async-logging queue.
 
-**[parsm](https://github.com/jac18281828/parsm)** &nbsp;(Rust · [crates.io](https://crates.io/crates/parsm)) — a structured-data processor that auto-detects JSON, CSV, YAML, TOML, logfmt, and plain text, then applies a pest PEG-grammar DSL for field extraction, filtering, and templating. Eight integration-test suites, full CI/CD.
+**[parsm](https://github.com/jac18281828/parsm)** &nbsp;(Rust · [crates.io](https://crates.io/crates/parsm)) — a structured-data processor that auto-detects JSON, CSV, YAML, TOML, logfmt and plain text, then applies a pest PEG-grammar DSL for field extraction, filtering and templating. It ships with eight integration-test suites and full CI/CD.
 
 ---
 
 ### Systems & Emulation
 
-- **[checksmix](https://github.com/jac18281828/checksmix)** (Rust · crates.io) — a complete MMIX assembler and emulator for Knuth’s 64-bit RISC architecture: 256 general-purpose registers, IEEE-754 floating point with configurable rounding modes, TRAP-based I/O, and multi-source assembly via a pest parser.
-- **[gman](https://github.com/jac18281828/gman)** (C++) — a RenderMan-compatible renderer: started in 1999, revived in 2026 on a modern CMake / C++23 build. Full RIB front end, a working back end (object → world → camera → screen → raster, Gouraud-shaded surface shaders, TIFF/PNG/JPEG output), sanitizer-gated CI.
-- **[emomtimer](https://github.com/jac18281828/emomtimer)** (Rust · Yew · WASM → [emomtimer.2ad.com](https://emomtimer.2ad.com)) — a drift-correcting countdown timer in WebAssembly; wall-clock resync and drift detection keep it accurate over hours of background-tab throttling.
+- **[checksmix](https://github.com/jac18281828/checksmix)** (Rust · crates.io) — a complete MMIX assembler and emulator for Knuth’s 64-bit RISC architecture: 256 general-purpose registers, IEEE-754 floating point with configurable rounding modes, TRAP-based I/O and multi-source assembly via a pest parser.
+- **[gman](https://github.com/jac18281828/gman)** (C++) — a RenderMan-compatible renderer: started in 1999, revived in 2026 on a modern CMake / C++20 build. Full RIB front end, a working back end (object → world → camera → screen → raster, Gouraud-shaded surface shaders, TIFF/PNG/JPEG output), sanitizer-gated CI.
+- **[emomtimer](https://github.com/jac18281828/emomtimer)** (Rust · Yew · WASM → [emomtimer.2ad.com](https://emomtimer.2ad.com)) — a countdown timer in WebAssembly; wall-clock resync and drift detection keep it accurate over hours of background-tab throttling.
 
 ### Blockchain & Cryptography
 
@@ -104,21 +103,20 @@ for hours, even when your browser throttles the background tab.
 
 ### Rust & Unix Tooling
 
-- **[snipren](https://github.com/jac18281828/snipren)** (Rust · crates.io) — a safe, intent-aware rename utility: reverse-infers the source from the target you want, refuses ambiguous matches, and never clobbers.
+- **[snipren](https://github.com/jac18281828/snipren)** (Rust · crates.io) — a safe, intent-aware rename utility: reverse-infers the source from the target you want, refuses ambiguous matches and never clobbers.
 - **[diceware](https://github.com/jac18281828/diceware)** — secure passphrase generation from codeword lists, optimized for an 8-sided die.
 
 ### Systems C/C++
 
-- **[ringsend](https://github.com/jac18281828/ringsend)** — a multi-threaded TCP ring topology in C: each thread owns a socket, forwards data to its peer, and the message laps the ring. pthreads + raw sockets, CMake/Make build, ctest suite, Dockerized.
+- **[ringsend](https://github.com/jac18281828/ringsend)** — a multi-threaded TCP ring topology in C: each thread owns a socket, forwards data to its peer, and the message laps the ring. It uses pthreads and raw sockets, builds with CMake or Make and ships with a ctest suite and a Dockerfile.
 - **[istream_block_iterator](https://github.com/jac18281828/istream_block_iterator)** — an STL-compatible chunked stream iterator.
-- **[gzkfast](https://github.com/jac18281828/gzkfast)** — an astrophysical event
-  generator on the GNU Scientific Library (C++ grad-school project).
+- **[gzkfast](https://github.com/jac18281828/gzkfast)** — an astrophysical event generator on the GNU Scientific Library (C++ grad-school project).
 
 ### Puzzles & Exploration
 
 - **[mpfib](https://github.com/jac18281828/mpfib)** (C++20) — a hand-written radix-256 `BigInt` with Karatsuba multiplication and fast doubling. Computed F(10,000,000) = 2,089,878 digits and found F(3,340,367) to be a probable prime.
 - **[gofib](https://github.com/jac18281828/gofib)** (Go) — fast-doubling arbitrary-precision Fibonacci, benchmarked across architectures. F(300,000,000) = 62,696,314 digits in 3m26s on Apple M2 Max; beats a Python3 implementation by 15x at F(10M).
-- **[diehard3](https://github.com/jac18281828/diehard3)** (Rust) — a BFS solver for the *Die Hard 3* water-jug problem: measure an exact target volume using any number of containers via fill, drain, and pour, plus a puzzle generator.
+- **[diehard3](https://github.com/jac18281828/diehard3)** (Rust) — a BFS solver for the *Die Hard 3* water-jug problem: measure an exact target volume using any number of containers via fill, drain and pour, plus a puzzle generator.
 
 ## [Latest Videos](https://www.youtube.com/@johnacairns)
 
