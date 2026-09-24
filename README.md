@@ -36,15 +36,13 @@ your browser or on your laptop in under a minute — go play.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://playmmix.2ad.com"><img src="img/playmmix.png" width="240" alt="PlayMMIX: Hello, Halt. in MMIX assembly" /></a>
+<a href="https://playmmix.2ad.com"><img src="img/playmmix-phone.jpg" width="160" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
 <h3><a href="https://playmmix.2ad.com">▶ PlayMMIX</a></h3>
 Write assembly for Knuth’s 64-bit MMIX machine and step through it in your
 browser, watching registers and memory change as each instruction runs. No
 install. Share a program as a link. Built on
 <a href="https://github.com/jac18281828/checksmix">checksmix</a>, my Rust MMIX
-emulator. It works on your phone, too:
-<br /><br />
-<a href="https://playmmix.2ad.com"><img src="img/playmmix-phone.jpg" width="140" alt="PlayMMIX on a phone: touch-sized Run, Step, Next and Share buttons over the editor" /></a>
+emulator. Works on your phone.
 <br /><br />
 <a href="https://playmmix.2ad.com"><b>Play now</b></a> ·
 <a href="https://github.com/jac18281828/playmmix">source</a>
