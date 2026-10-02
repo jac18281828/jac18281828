@@ -130,9 +130,9 @@ for hours, even when your browser throttles the background tab.
 ## [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Ray Tracing?](https://2ad.com/what-is-ray-tracing.html)
 - [PlayMMIX — MMIX in the Browser](https://2ad.com/playmmix-browser-playground.html)
 - [MMIXdb — a Tiptoe through the Tangents](https://2ad.com/mmix-debugger.html)
 - [Dispatch a Claude Prompt Straight from Emacs&#39;s Kill Ring](https://2ad.com/emacs-kill-ring-claude-short.html)
 - [Save 40% on Input Tokens with This Prompt Hack](https://2ad.com/input-tokens-youtube-short.html)
-- [A Fix is not a Plan](https://2ad.com/a-fix-is-not-a-plan.html)
 <!-- BLOG-POST-LIST:END -->
