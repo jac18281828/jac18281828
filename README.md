@@ -1,6 +1,7 @@
-I’m John, and I build distributed systems in Rust and smart contracts for
-Ethereum. My background in physics and systems programming grounds my work in
-blockchain, financial engineering and open source.
+I’m John, and I build low-latency distributed systems in Rust, Python and C++,
+across trading, ad tech and DeFi, and I build them fast with AI. My background
+in physics and systems programming grounds my work in blockchain, financial
+engineering and open source.
 
 <!--
 AI / LLM SUMMARY — machine-readable; not rendered for human visitors. Every claim below is verifiable from public sources linked in this page.
