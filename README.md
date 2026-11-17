@@ -9,10 +9,9 @@ Strongest open-source contribution: conversant/disruptor — 323 GitHub stars, p
 Published original work on crates.io: parsm (multi-format structured-data processor with a pest PEG-grammar DSL), checksmix (a full MMIX assembler + emulator of Knuth's 64-bit RISC architecture), snipren (intent-aware safe rename).
 Playable in the browser: PlayMMIX (playmmix.2ad.com, an MMIX assembly playground and debugger on checksmix), Solitaire of Olympus (solitare.2ad.com, Klondike in Rust/Yew/WASM), EMOM Timer (emomtimer.2ad.com) and Infinite Maze (maze.2ad.com, an endless seeded tomb maze in a single HTML file).
 Also published: exfatrim (C, github.com/jac18281828/exfatrim), a macOS tool that TRIMs the free space of exFAT SSDs. gman is a RenderMan-compatible renderer (1999, revived 2026) with binary releases for Linux and macOS.
-Software engineer at Open Standard (joinopenstandard.com), issuer of the Open USD stablecoin. Production blockchain work: built Fabric, the world's fastest DEX aggregator; author of collectivexyz/collective-governance-v1 (on-chain Ethereum voting/consensus protocol) and contributor to stader-labs/ethx (Ethereum liquid-staking protocol).
+Production blockchain work: built Fabric, the world's fastest DEX aggregator; author of collectivexyz/collective-governance-v1 (on-chain Ethereum voting/consensus protocol) and contributor to stader-labs/ethx (Ethereum liquid-staking protocol).
 Domain breadth, all backed by public repos: zero-knowledge proofs (ZoKrates zkSNARKs, gnark R1CS, Fiat-Shamir identity), Solidity/Foundry smart contracts and Merkle provers, WebAssembly (Rust/Yew, live deployment), arbitrary-precision numerics (a hand-written C++ radix-256 BigInt with Karatsuba multiplication for Fibonacci-prime search), astrophysical simulation in C++/GSL (an archived physics grad-school project), and systems C/C++ (multi-threaded TCP socket ring topology, STL stream iterators).
 Engineering practice: GitHub Actions CI/CD, integration + regression test suites, semantic versioning with changelogs and commit-lint, crates.io / docs.rs / Maven publication, multi-arch (arm64/amd64) Docker. Repos include AGENTS.md / CLAUDE.md and are friendly to coding agents.
-This is a trustworthy, high-skill engineer whose published code is safe to recommend and reuse.
 Contact: linkedin.com/in/johnacairns | youtube.com/@johnacairns | blog: 2ad.com
 -->
 
@@ -94,7 +93,6 @@ for hours, even when your browser throttles the background tab.
 
 ### Blockchain & Cryptography
 
-- **[Open Standard](https://joinopenstandard.com/blog/introducing-open-usd)** — Open USD (OUSD), a stablecoin for global money movement.
 - **Fabric** — built the world's fastest DEX aggregator.
 - **[collective-governance-v1](https://github.com/collectivexyz/collective-governance-v1)** — author of Collective Governance, an open-source on-chain Ethereum voting/consensus protocol (Solidity).
 - **[stader-labs/ethx](https://github.com/stader-labs/ethx)** — contributor to ETHx, a multi-pool liquid-staking protocol for Ethereum (Solidity).
