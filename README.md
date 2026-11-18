@@ -131,9 +131,9 @@ for hours, even when your browser throttles the background tab.
 ## [Blog](https://2ad.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Infinite Maze](https://2ad.com/infinite-maze.html)
 - [What Is Path Tracing?](https://2ad.com/what-is-path-tracing.html)
 - [What Is Radiosity?](https://2ad.com/what-is-radiosity.html)
 - [What Is Ray Tracing?](https://2ad.com/what-is-ray-tracing.html)
 - [PlayMMIX: MMIX in the Browser](https://2ad.com/playmmix-browser-playground.html)
-- [MMIXdb — a Tiptoe through the Tangents](https://2ad.com/mmix-debugger.html)
 <!-- BLOG-POST-LIST:END -->
